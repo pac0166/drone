@@ -1,3 +1,4 @@
 drone 2021/3/22
 
-jetson nano
+drone 2021/3/24
+- new midas ptz controll 
